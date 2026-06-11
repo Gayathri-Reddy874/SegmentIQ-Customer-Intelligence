@@ -183,7 +183,7 @@ CUSTOMER_SEGMENTATION/
 ├── app_ecommerce.py
 ├── train_ecommerce.py
 ├── model.pkl
-├── ecommerce_customer_segmentation_unsupervised.csv
+├── ecommerce_customer_segmentation.csv
 ├── requirements.txt
 │
 └── README.md
@@ -218,7 +218,7 @@ Additional engineered features include:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/SegmentIQ-Customer-Intelligence.git
+git clone https://github.com/Gayathri-Reddy874/SegmentIQ-Customer-Intelligence.git
 
 cd SegmentIQ-Customer-Intelligence
 ```

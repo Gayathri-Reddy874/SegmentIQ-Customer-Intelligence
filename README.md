@@ -294,18 +294,13 @@ The application will open in your browser.
 
 Place your screenshot here:
 
-```text
-Screenshots/dashboard.png
-```
+![alt text](Screenshots/dashboard.png)
 
 ### Results Screen
 
 Place your screenshot here:
 
-```text
-Screenshots/results.png
-```
-
+![alt text](Screenshots/results.png)
 ---
 
 ## Model Evaluation

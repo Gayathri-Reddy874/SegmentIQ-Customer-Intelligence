@@ -289,7 +289,7 @@ The application will open in your browser.
 ---
 
 ## Live Demo
-👉 [Check out the demo here](https://your-demo-link.com)
+👉 [Check out the demo here](https://segmentiq-customer-intelligence-vzf8qxipbudkntrjbkfgr6.streamlit.app/)
 
 ---
 

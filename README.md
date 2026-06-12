@@ -288,6 +288,11 @@ The application will open in your browser.
 
 ---
 
+## Live Demo
+👉 [Check out the demo here](https://your-demo-link.com)
+
+---
+
 ## Dashboard Preview
 
 ### Main Dashboard
